@@ -30,3 +30,44 @@ For managing reviews, the admin cannot create a new one. Only customer can write
 For managing orders, the admin can update shipping information and status of an order (there will be more options for payment method in future, but there’s only one “Cash on Delivery” option at this stage). In addition, the admin can manage the books picked by the customer. He can update quantity, remove or even add other books to the order.
 And lastly, an admin can create another admin user with information like email, full name and password.  Then the new user can use his email and password to login to the backend for managing information.
 An admin can also edit information and delete other admin users if needed.
+
+# USER’S REQUIREMENTS
+
+Evergreen Books Co., needs to build a website that allows their customers to purchase books online and their employees to manage books, customers and sales data centrally.
+Once a customer ordered books, the company will ship the books to customer’s address.
+The customer gets the books and pay - Cash On Delivery (COD).
+The website should be simple and easy to use.
+
+# WHAT CUSTOMERS CAN DO:
+
+* View new books, best-selling books, and most favored books on the home page
+* Search for books
+* View books listed by category
+* View book’s details and reviews
+* Write reviews for books
+* Order books
+* Check their order status and shopping history
+* They must register to write review and purchase books
+
+# WHAT EMPLOYEES CAN DO:
+
+Manage admin users
+Manage categories
+Manage books
+Manage customers
+Manage reviews (but cannot write reviews)
+Manage orders (but cannot create orders)
+View statistical information
+
+# What Data Needs to be Managed: 
+Customer information
+Category information
+Book information
+Customer’s Review information
+Order information
+Admin User information
+
+
+
+
+
