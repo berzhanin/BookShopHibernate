@@ -40,14 +40,14 @@ The website should be simple and easy to use.
 
 # WHAT CUSTOMERS CAN DO:
 
-* View new books, best-selling books, and most favored books on the home page
-* Search for books
-* View books listed by category
-* View book’s details and reviews
-* Write reviews for books
-* Order books
-* Check their order status and shopping history
-* They must register to write review and purchase books
+View new books, best-selling books, and most favored books on the home page
+Search for books
+View books listed by category
+View book’s details and reviews
+Write reviews for books
+Order books
+Check their order status and shopping history
+They must register to write review and purchase books
 
 # WHAT EMPLOYEES CAN DO:
 
