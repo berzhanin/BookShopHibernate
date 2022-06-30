@@ -50,22 +50,21 @@ Check their order status and shopping history
 They must register to write review and purchase books
 
 # WHAT EMPLOYEES CAN DO:
-
-Manage admin users
-Manage categories
-Manage books
-Manage customers
-Manage reviews (but cannot write reviews)
-Manage orders (but cannot create orders)
-View statistical information
+1. Manage admin users
+2. Manage categories
+3. Manage books
+4. Manage customers
+5. Manage reviews (but cannot write reviews)
+6. Manage orders (but cannot create orders)
+7. View statistical information
 
 # What Data Needs to be Managed: 
-Customer information
-Category information
-Book information
-Customer’s Review information
-Order information
-Admin User information
+1. Customer information
+2. Category information
+3. Book information
+4. Customer’s Review information
+5. Order information
+6. Admin User information
 
 
 
